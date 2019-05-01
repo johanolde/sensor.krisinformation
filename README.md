@@ -21,7 +21,7 @@ This component is supported by [Custom updater and Tracker card](https://github.
 ## Installation:
 
 1. Install this component by creating a `custom_components` folder in the same folder as your configuration.yaml is, if you don't already have one.
-2. Inside that folder, create another folder named `krisinformation`. Put the `sensor.py` file in there (if you copy and paste the code, make sure you do it from the [raw version](https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/krisinformation/sensor.py) of the file).
+2. Inside that folder, create another folder named `krisinformation`. Put the `sensor.py` and 'manifest.json' files in there (if you copy and paste the code, make sure you do it from the [raw version](https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/krisinformation/sensor.py) of the file).
 2. Add the code to your `configuration.yaml` using the config options below.
 3. **You will need to restart after installation for the component to start working.**
 
